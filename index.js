@@ -10,5 +10,5 @@ let num4=10
 let mod=(num3%num4)
 
 
-Math.max(10,5,6,72,6,20)
+ let max=Math.max(10,5,6,2,6,20)
 console.log(Math.max)
